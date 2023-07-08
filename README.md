@@ -7,5 +7,5 @@
 
   ![Matteo Bottorff Github Stats](https://github-readme-stats.vercel.app/api?username=TeoPotato&theme=chartreuse-dark&show_icons=true&hide_border=false&include_all_commits=true&show_owner=true&count_private=true&hide_rank=false&cache_seconds=86000)
 <br> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeoPotato&langs_count=8&layout=compact)](https://github.com/Nandini-72/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeoPotato&langs_count=8&layout=compact)](https://github.com/TeoPotato/github-readme-stats)
 </p>
